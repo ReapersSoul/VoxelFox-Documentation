@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "951074a2a0a7f250",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7925f4f28c9b84a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Lua/Lua.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b63001db76f1771b",
+    "type": "split",
+    "children": [
+      {
+        "id": "354cc760764846ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0885637d60e70c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9247d41ec099ca03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9628959ad16a4e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd953c580cc7c1da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d85c5b3b69d63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Lua/Lua.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7925f4f28c9b84a",
+  "lastOpenFiles": [
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Lua/Lua.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Exception.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Functions/Exception(string exString).md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Functions/What().md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Properties.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Functions/Untitled.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Untitled.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Exception/Properties/Private/Untitled.md",
+    "VoxelFox/VoxelFox-Library/VoxelFox-C++ API/Classes/Lua/Untitled.md",
+    "VoxelFox/VoxelFox-Game Engine/VoxelFox-Game Engine-Scripting/Scripting-JavaScript API.md"
+  ]
+}
